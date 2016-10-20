@@ -7,7 +7,7 @@
 Filerec is a Light weight file redundancy checker. It's handy if you don't know if you already have the same files somewhere
 on your backup drive. You can compare files by name, size and even if they match content (streams). 
 
-Filerec does not delete the redundant files, this you have to do yourselve
+Filerec does not delete the redundant files, this you have to do yourself
 
 ## How to use
 
